@@ -1,0 +1,72 @@
+/*FOR HTML CODE:---------*/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css basics</title>
+    <link rel="stylesheet" href="secod.css">
+</head>
+<body bgcolor="#fffff" text="black">
+     <section class="one">first section</section>
+     <div class="one_child">ABC</div>
+     <div class="two_child">DEF</div>
+     <div class="three_child">ghi</div>
+     <section class="two">second section</section>
+     <div class="x_child">jkl</div>
+     <div class="y_child">mno</div>
+     <section class="three">third section</section>
+     <img src="./media/captain-america.jpg" alt="captain-america">
+     <img src="./media/doctor-strange.jpg" alt="doctor-strange">
+</body>
+</html>
+
+
+/*FOR CSS CODE :------------*/
+
+
+ .one
+ {
+height:50px;
+width:50px;
+background-color:purple;
+ }
+.one_child
+{
+height:50px;
+width:50px;
+background-color:pink;
+}
+.two_child
+{
+height:50px;
+width:50px;
+background-color:yellow;
+}
+.three_child
+{
+height:50px;
+width:50px;
+background-color:green;
+}
+.two
+{
+ height:50px;
+width:50px;
+background-color: red;
+}
+.x_child
+{
+height:50px;
+width:50px;
+background-color:violet;
+}
+.y_child
+{
+    height:50px;
+width:50px;
+background-color:orange;
+}
+ 
